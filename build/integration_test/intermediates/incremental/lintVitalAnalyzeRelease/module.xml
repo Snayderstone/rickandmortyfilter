@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/snayderstone/devflutter/flutter/packages/integration_test/android"
+    name=":integration_test"
+    type="LIBRARY"
+    maven="dev.flutter.plugins.integration_test:integration_test:1.0-SNAPSHOT"
+    agpVersion="8.7.0"
+    buildFolder="/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/integration_test"
+    bootClassPath="/home/snayderstone/Android/Sdk/platforms/android-35/android.jar:/home/snayderstone/Android/Sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-35"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

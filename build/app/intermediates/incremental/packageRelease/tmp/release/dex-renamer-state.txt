@@ -1,0 +1,4 @@
+#Thu Mar 06 15:01:45 ECT 2025
+base.0=/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

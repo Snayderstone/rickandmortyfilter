@@ -1,0 +1,29 @@
+# ninja log v5
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/libflutter_linux_gtk.so	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_engine.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_value.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/fl_view.h	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	427ee7face3dd1e8
+1	38128	0	flutter/_phony_	427ee7face3dd1e8
+1	38128	0	/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/flutter/_phony_	427ee7face3dd1e8
+38128	39692	1741309601293595158	runner/CMakeFiles/rickandmortyfilter.dir/main.cc.o	8bf65c63470decfc
+38140	39761	1741309601373593983	runner/CMakeFiles/rickandmortyfilter.dir/__/flutter/generated_plugin_registrant.cc.o	78a195332eef14fb
+38131	39900	1741309601512591941	runner/CMakeFiles/rickandmortyfilter.dir/my_application.cc.o	af1be007787d29c3
+39901	40166	1741309601783587961	intermediates_do_not_run/rickandmortyfilter	add3d99b5a77fcea
+40169	40247	0	CMakeFiles/install.util	67cec8d30e3a1e1

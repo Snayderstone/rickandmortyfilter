@@ -1,0 +1,32 @@
+<variant
+    name="release"
+    package="dev.flutter.integration_test"
+    minSdkVersion="21"
+    targetSdkVersion="21"
+    mergedManifest="/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/integration_test/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/integration_test/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/integration_test/intermediates/default_proguard_files/global/proguard-android.txt-8.7.0"
+    consumerProguardFiles="lib-proguard-rules.txt"
+    partialResultsDir="/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/integration_test/intermediates/lint_partial_results/release/lintAnalyzeRelease/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/release/java:src/main/kotlin:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/integration_test/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/integration_test/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="dev.flutter.integration_test"
+      generatedSourceFolders="/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/integration_test/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/integration_test/generated/res/resValues/release"
+      desugaredMethodsFiles="/home/snayderstone/.gradle/caches/8.10.2/transforms/8396b395aefe588efd6884e268bf40ca/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

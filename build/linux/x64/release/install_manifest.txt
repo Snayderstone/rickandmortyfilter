@@ -1,0 +1,16 @@
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/rickandmortyfilter
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/data/icudtl.dat
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/lib/native_assets.json
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.bin
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/data/flutter_assets/NOTICES
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.json
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/data/flutter_assets/version.json
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/snayderstone/Escritorio/CURSOS/CURSO DE FLUTTER/Projects/rickandmortyfilter/build/linux/x64/release/bundle/lib/libapp.so
